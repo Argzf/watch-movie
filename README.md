@@ -49,7 +49,7 @@ You'll need to deploy a cloudflare service worker as well. Check the [selfhostin
 <h2>Contributing - <a href="https://github.com/Argzf/watch-movie/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Argzf/watch-movie?style=flat-square"></a>
 <a href="https://github.com/Argzf/watch-movie/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Argzf/watch-movie?style=flat-square"></a></h2>
 
-Check out [this project's issues](https://github.com/movie-web/movie-web/issues) for inspiration for contribution. Pull requests are always welcome.
+Check out [this project's issues](https://github.com/Argzf/watch-movie/issues) for inspiration for contribution. Pull requests are always welcome.
 
 **All pull requests must be merged into the `dev` branch. it will then be deployed with the next version**
 
