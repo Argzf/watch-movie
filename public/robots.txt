@@ -15,4 +15,4 @@ User-agent: Vercelbot
 Disallow:
 
 User-agent: *
-Disallow: /
+Disallow:
