@@ -11,5 +11,8 @@ Disallow:
 User-agent: Discordbot
 Disallow: 
 
+User-agent: Vercelbot
+Disallow:
+
 User-agent: *
 Disallow: /
